@@ -1,0 +1,16 @@
+{
+    "base_url": "https://www.guvi.in",
+    "expected_title": "HCL GUVI | Learn to code in your native language",
+    "register_url": "https://www.guvi.in/register/",
+    "users": {
+        "valid_user": {
+            "email": "",
+            "password": ""
+        },
+        "invalid_user": {
+            "email": "invalid_test@test.com",
+            "password": "WrongPassword123"
+        }
+    },
+    "nav_items": ["Courses", "LIVE Classes", "Practice"]
+}
